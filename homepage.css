@@ -169,3 +169,35 @@
     background-color: rgba(159, 194, 200, 0.775);
     margin-bottom: 12px;
 }
+
+@media (min-width:300px) and (max-width:700px) {
+    .footer .footer-section-about {
+        size: 20px;
+        font-size: small;
+    }
+
+    .footer .contact {
+        size: 20px;
+        font-size: small;
+    }
+
+    .footer .footer-section-links {
+        size: 20px;
+        font-size: small;
+    }
+
+    .footer .contact-form {
+        size: 20px;
+        font-size: small;
+    }
+
+    .footer #footer-para {
+        size: 18px;
+        font-size: small;
+    }
+
+    .footer .contact {
+        size: 18px;
+        font-size: small;
+    }
+}
