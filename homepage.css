@@ -180,7 +180,12 @@
         size: 20px;
         font-size: small;
     }
-
+    
+.songInfo {
+    position: absolute;
+    left: 20vh;
+}
+    
     .footer .footer-section-links {
         size: 20px;
         font-size: small;
